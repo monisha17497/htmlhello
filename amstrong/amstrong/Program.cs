@@ -10,7 +10,7 @@ namespace amstrong
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(amstrong(153));
+            Console.WriteLine(amstrong(124));
         }
         public static bool amstrong(int n)
         {

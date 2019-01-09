@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divide_reverse_count", "divide_reverse_count\divide_reverse_count.csproj", "{EAF6365A-AE6C-47DC-B642-B010FD28054D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF6365A-AE6C-47DC-B642-B010FD28054D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF6365A-AE6C-47DC-B642-B010FD28054D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF6365A-AE6C-47DC-B642-B010FD28054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF6365A-AE6C-47DC-B642-B010FD28054D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3D0E0D-AAC3-4E9B-863A-9B3235DADCBB}
+	EndGlobalSection
+EndGlobal

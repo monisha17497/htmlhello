@@ -26,6 +26,7 @@ namespace amstrong
                 sum = sum + (Math.Pow(rem, count));
                 n = n / 10;
             }
+            console.WriteLine();
             if (sum == temp)
             {
                 return Flag;
